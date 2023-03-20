@@ -1,4 +1,4 @@
-# group_chatapp_flutter_firebase
+# Chatting Application Using flutter
 
 
 
